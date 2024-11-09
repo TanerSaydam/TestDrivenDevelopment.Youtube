@@ -1,10 +1,13 @@
 # eTicaret Projesi with TDD
 
-- [ ] Bir ürün tablom olsun
-- [ ] Bu ürün kaydolurken bazı şartlardan geçsin. Mesela ismi 3 karaterdan az olamasın, ismi unique olsun, fiyatı 0 dan büyük olsun
-- [ ] Bu ürün sepete eklenirken stokta varsa eklenebilsin, eğer stokta ürün yoksa eklenemesin
+- [ ] Bir Ã¼rÃ¼n tablom olsun
+- [ ] Bu Ã¼rÃ¼n kaydolurken bazÃ½ Ã¾artlardan geÃ§sin. Mesela ismi 3 karaterdan az olamasÃ½n, ismi unique olsun, fiyatÃ½ 0 dan bÃ¼yÃ¼k olsun
+- [ ] Bu Ã¼rÃ¼n sepete eklenirken stokta varsa eklenebilsin, eÃ°er stokta Ã¼rÃ¼n yoksa eklenemesin
 
-
+## Youtube videosu
+```
+https://youtube.com/live/tIukiVKch3Q
+```
 
 ## Postgres docker kodu
 ```
